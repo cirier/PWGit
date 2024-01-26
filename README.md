@@ -1,5 +1,5 @@
-<<<<<<< HEAD
 Etienne Philippe Alix
+
 not empty
 some 
 text
